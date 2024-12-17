@@ -26,8 +26,7 @@ https://spoosk.ru - аггрегатор лучших горнолыжных к�
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
           
           
-          
-          
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OlgaAlekhina)](https://git.io/streak-stats)
           
           
           
