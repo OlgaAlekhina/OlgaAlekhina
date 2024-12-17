@@ -34,6 +34,10 @@ https://spoosk.ru - аггрегатор лучших горнолыжных к�
 
 - Онлайн школа "SkillFactory", разработчик на питоне
 
+## Мои успехи на LeetCode:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/OlgaAlekhina)
+
 
           
           
